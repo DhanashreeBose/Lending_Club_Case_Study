@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > Outline a brief description of your project.
 
 
@@ -11,10 +11,17 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- LendingClub is an online peer-to-peer lending platform that allows investors to lend money directly to individual borrowers, bypassing traditional banks and financial institutions. The company was founded in 2007 and has facilitated more than $50 billion in loans to date.
+
+The LendingClub case study typically involves analyzing a dataset of loan data from the platform in order to build a model that can predict whether a given loan will default or not. This involves cleaning and preprocessing the data, performing exploratory data analysis to gain insights into the data, feature engineering to create new features from the existing ones, and then training and evaluating a machine learning model on the data.
+
+The goal of the case study is to build a model that can accurately predict loan defaults, which is important for both investors and the platform itself to manage risk and ensure profitability. The case study typically involves using techniques from supervised learning, such as logistic regression or decision trees, and evaluating the model's performance using metrics such as accuracy, precision, recall, and F1 score.
+
+
+
+
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
